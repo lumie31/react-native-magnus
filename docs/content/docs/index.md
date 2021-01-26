@@ -11,7 +11,7 @@ date: "2019-08-13"
 
 <br />
 
-Magnus UI is an design system for react-native based on the atomic design principle. It helps developers and designers to build consistent components quickly in terms of UI and UX.
+Magnus UI is a design system for react-native based on the atomic design principle. It helps developers and designers to build consistent components quickly in terms of UI and UX.
 
 <br />
 
